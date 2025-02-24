@@ -1,268 +1,296 @@
 [[CoolProp]]
 arch = "aarch64"
-git-tree-sha1 = "60697c8599cc6c293d2041fae6127cf79d169d1d"
+git-tree-sha1 = "729d0655db4c88bcc13583b26c231af31c8b1b75"
 os = "macos"
 
     [[CoolProp.download]]
-    sha256 = "f9e7db964150ad4491b8b19292d8597b581e1a7431d5f730822ee0ce5f496220"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "844159aa616b280f3cb1f950212de52a4e8591640ba965507526b2d879519fd2"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.aarch64-apple-darwin.tar.gz"
 [[CoolProp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b86d3db709834388be79b35695bb9deee2b86114"
+git-tree-sha1 = "20aa936205f8d94c7206dabee2aa54eb244fe44d"
 libc = "glibc"
 os = "linux"
 
     [[CoolProp.download]]
-    sha256 = "fbebfb98ab304fa9c6a0550dc096e500a7a85beef1fbf5711748f74f6c97f614"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "1fde19fb09bc301a643391c849269225621776786e7df22fd0192ab5f9b3ea6b"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[CoolProp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "09585de5f7c08dbef31426cd83774374326e1cad"
+git-tree-sha1 = "ac0bb772881b89e235f002da66b8ea97b3ba7af3"
 libc = "glibc"
 os = "linux"
 
     [[CoolProp.download]]
-    sha256 = "b901f08eecb0b82c8abee1ba3aa292ad3e20b67d8f061f325fc997418dc4ea0d"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "28ddb5b8ef95341252ae2cd85a0f724a92a0a55305d70360c4179057b6dc07b0"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[CoolProp]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "942ba546012c09f190bee5c8ee7c220900d4585d"
+git-tree-sha1 = "9a32b8b180eb28874faf48bed1cf062491f3f141"
 libc = "musl"
 os = "linux"
 
     [[CoolProp.download]]
-    sha256 = "4cef905a51fa75aaed34999e9c9c89025e5021abc14bd43a436d33aff7af194a"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "5507258941b27d2c094ffa3ebe4e15a1fc693fb862b10b58772726a532b652e4"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.aarch64-linux-musl-cxx03.tar.gz"
 [[CoolProp]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "89a0204df25372929a5ae66246b79085c86794f4"
+git-tree-sha1 = "ae338561ff3be222f650ca9a97e91d554b04cf60"
 libc = "musl"
 os = "linux"
 
     [[CoolProp.download]]
-    sha256 = "9f301eeb570d5eeb1d5008f988d605b2950e8e3964fe94d58d279ed0a096cdf5"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "308ef7293ad9fd97f9117af3ccce188b25f225af9d8759d2c0cf44732e032c59"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.aarch64-linux-musl-cxx11.tar.gz"
 [[CoolProp]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f3a69638b8637296ac83f33a7338484053efb09d"
-libc = "glibc"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "8b12ac9cf83da5a48acf14316346194914f3afc220a39a1d12c5fb325ba806da"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
-[[CoolProp]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "12c382344ba8ca4df30688ad0dddeeb122a29bd8"
-libc = "glibc"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "a85a517d31494bcff99687f1748592673f3785487505883aeefe6ed1ae5b7174"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[CoolProp]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a3dc2138a764a91f0b28fa1b1996bc3da5819d82"
-libc = "musl"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "56f6101f653976dc5723f364ea0311d2c3faf7677244f848f744d210acce2172"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.armv6l-linux-musleabihf-cxx03.tar.gz"
-[[CoolProp]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e6de5a9ece7fc9f6671b091a52f6e7285057416c"
-libc = "musl"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "110ad01d4d91a81646fb20c2b1b5ae50e616cb0873b60fda16ace8dbdc0324e8"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.armv6l-linux-musleabihf-cxx11.tar.gz"
-[[CoolProp]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ef522db40c08dcddc844ac37453ce72be61bfe82"
-libc = "glibc"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "fa6b030e85978ce69e43979231b5384b6c9db850c6b3802323974c7ae14cd2b8"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[CoolProp]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6cc3db8bd965837f881fcf56219e86b35cca8fa5"
-libc = "glibc"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "14b9edfd814c4e26552bc83541f868c670860cbddb35edb54812afa86dc10cfd"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[CoolProp]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9c57199bad08dee10686a077a2a41ab202afc37d"
-libc = "musl"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "4839f51f8f04b48f656ef211a5bf76128879ad567182757bf2af41a3b1d3e0fe"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.armv7l-linux-musleabihf-cxx03.tar.gz"
-[[CoolProp]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6632cdb2704c488d7617acec330830536cfdc6eb"
-libc = "musl"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "2857efb152c19caa493a906352fd4a6b7cb178248affe4f3fc21d7c74fedc24e"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[CoolProp]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "6efbe14ecedfbbbb2e8b8a99a9408684e6762979"
-libc = "glibc"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "79c908013f68ef747e3b43d55d8611885b86b4024d20a741893544671e4aaa11"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.i686-linux-gnu-cxx03.tar.gz"
-[[CoolProp]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "639bb593832e5166b08c6c842ec4be2727d2d345"
-libc = "glibc"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "acd7f670050c3e46ac61ea58f94eac6a697e8cc75f2873fe7e9a1a2449898a92"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.i686-linux-gnu-cxx11.tar.gz"
-[[CoolProp]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "8b71fe4448bf77221949eab50a8ce4710026bff2"
-libc = "musl"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "97bcda78c88fbae2c4471024d3220d5315375a0bb452f9504c151ef7f4946b8b"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.i686-linux-musl-cxx03.tar.gz"
-[[CoolProp]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8d8c6dc0f709b569e030df3d5d2a553b6e59b74"
-libc = "musl"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "4f7f04416503ca8870f2588c0904bc3d356b51ef89515a05f23e7fa9a2af2549"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.i686-linux-musl-cxx11.tar.gz"
-[[CoolProp]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "dafcb0884c4f67b254be9151149063e39fa2771f"
-os = "windows"
-
-    [[CoolProp.download]]
-    sha256 = "8ab630c78937c6adfda24e79c4ca016fab71ed3edcb8768783a54340bdd27e52"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.i686-w64-mingw32-cxx03.tar.gz"
-[[CoolProp]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "1f9929f2a98e8b9420d45c4a2f2504cfcf8c4b2c"
-os = "windows"
-
-    [[CoolProp.download]]
-    sha256 = "720b21b9cf4b597f2ef742dbf6110d3f201fdd6ac15c3c17378948c8ad42541f"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.i686-w64-mingw32-cxx11.tar.gz"
-[[CoolProp]]
-arch = "x86_64"
-git-tree-sha1 = "682adbd1845faa3c25d6d77f3d42e94e016fe0fb"
-os = "macos"
-
-    [[CoolProp.download]]
-    sha256 = "bd25a0b97022e7342af5dae693de4db263419843e55e100d117acef5ef00957c"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.x86_64-apple-darwin.tar.gz"
-[[CoolProp]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "12d86077355290c1b53d96ff883602f241d18615"
-libc = "glibc"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "fc560150d2057869eaa230e764297836301b21c59ffe9f985952638e8234c623"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.x86_64-linux-gnu-cxx03.tar.gz"
-[[CoolProp]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "8e18013227c533c97b482bffd3cf8a517d6965a5"
-libc = "glibc"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "8126a8326c70d6fe71bb5f975be43c9e76e8572ac8ccb1505e758b12294da73d"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.x86_64-linux-gnu-cxx11.tar.gz"
-[[CoolProp]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "42c3ead0c43d85a3d0f5004ed59e102688a7c18f"
-libc = "musl"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "c97e62e2c2de2f57fb70c640879b1e3e2e8f04e2339758a68ab16580200400e9"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.x86_64-linux-musl-cxx03.tar.gz"
-[[CoolProp]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "6997f8c552a18d168873480270424de37eca7f1f"
-libc = "musl"
-os = "linux"
-
-    [[CoolProp.download]]
-    sha256 = "4f1a866f90d8c4dbbb2be01c3d6bdce13996e7b869707aff6292ec2f6a241c33"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.x86_64-linux-musl-cxx11.tar.gz"
-[[CoolProp]]
-arch = "x86_64"
-git-tree-sha1 = "ba5aadb8b4d4a6cccc710d66f13bc627dc056477"
+arch = "aarch64"
+git-tree-sha1 = "5126ae2071b1415c7d69864b7aec0caef6c4d500"
 os = "freebsd"
 
     [[CoolProp.download]]
-    sha256 = "9aa34b4d6e5a6e8b29f145ff3b1952a7780f6f34b4571f8290ca8325a802df3c"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "caf2064eaf9ff8d7ebb7bb4b5acf990de42f5a70947acdf168b68c9560d15ea2"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.aarch64-unknown-freebsd.tar.gz"
+[[CoolProp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d716ed8c078b74c493a4003f0885222fd761e41c"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "0960ee7991121025768b5f2e5ce4f3bd7cf7d56ad8df7617087fbe1a62df33a4"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[CoolProp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d16314021f4431f3d8d1d998be99736d629a2c80"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "11b45e64208258fc6d49e0cb079c6784f61e02cd1cc035e258d23a069c9b4912"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[CoolProp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c175ed816a0de81a34f95efb24bd89ee6648a022"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "f4d55ba16efc641d52d8e66be634d171a64d4f864f64bf276b3cf08c11f37085"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[CoolProp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "90caaac053d1a68ce689ed77c69d341486b671c4"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "9979d2254db15b968f209feb4ce4bf795b62164740ca8d5ccad0b03732a7f6db"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[CoolProp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "41a5d9440db5c756a5f8b03aeb874c47caf7edab"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "fe0596e37397577918590c7b3f929a0d5d6ddd6aedc97895b9959064a898dcd0"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[CoolProp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be2509e242ea6df17d685396f9faa438a3dd09c7"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "4c14b62183095b473245ff013498c15b7f1588536d8e3e2ae84d4fbd734d5947"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[CoolProp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "953aacadb1276e9140b30ce582009c07d8228d00"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "bd44f76234bd63e77b5ef98e21c384d1e4177d5006e5db1c59dd803279a6ec2c"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[CoolProp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "40cf46dc7f41f70c16e48077308105a6dd8e284b"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "2d9df458404902fefc12d4690a88ece1695750309b302ddc610447186efa238b"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cc92a8474818b61ff94ec31f3f6037400af2d95f"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "b2b3974ce9af724a4c3107e86541ba146c7c36ac7b61c81605441d6fbf022c8d"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.i686-linux-gnu-cxx03.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "070b50c05c4240540cb6b370abadd983862cf3ce"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "8af7579b2470a489942b588b7ae139ad26ace21b4d0ad39af84cb7943b6e93e4"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.i686-linux-gnu-cxx11.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9e52908e1f9d9ccd95ce7bcef577ea832a46d716"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "111b8e66d6b2e76a9db13e44a528cecfe8f74ffc1e41ba4749a560d5d06b079b"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.i686-linux-musl-cxx03.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e11680fc82d78a39ea1aa4b9346de36130856f1"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "9870822754bcc6f7d165bfe25de39eaebd964ac5d8c164f9ab67d991de79e7bd"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.i686-linux-musl-cxx11.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "72dcc3a56080ea83c64c2b1df2a86fb132c59431"
+os = "windows"
+
+    [[CoolProp.download]]
+    sha256 = "88f1a81d203538f72672bea7c6782f29951f50bd4c96cbef3f3bb11f41b43d39"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.i686-w64-mingw32-cxx03.tar.gz"
+[[CoolProp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1fe61ef0f3d646eba18c7133764919d6503ec180"
+os = "windows"
+
+    [[CoolProp.download]]
+    sha256 = "88a0f16a130570ab4167bbfe4945570f878e43c42f09fd97f82cdc837d2898d5"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.i686-w64-mingw32-cxx11.tar.gz"
+[[CoolProp]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2d73ea4df0a8ca1d4aea7b913110ffc72d49c78a"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "2d76df1e1ad34c2730a97d4679c1330c621ad68a300ebeab843ba721460d7af5"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.riscv64-linux-gnu-cxx03.tar.gz"
+[[CoolProp]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1b37cdbc3f41e6e8dd6a8f5c2007e950a81dc3a0"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "421df682fd3be1e9f501a0152269da0c7d8aab2dc24eca999370ce90336bd71b"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+git-tree-sha1 = "d7add5d5f27d6d6efba57db6814abb80684bee1d"
+os = "macos"
+
+    [[CoolProp.download]]
+    sha256 = "ad8420c61b6e7191680db24738f4d032f43938c8369e9ea53c450974073f122f"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.x86_64-apple-darwin.tar.gz"
 [[CoolProp]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f78ca6c35c6b8d3c7d8ab27f29603206615612d9"
-os = "windows"
+git-tree-sha1 = "2a788ad6a046ef101fa307bb65902858da505500"
+libc = "glibc"
+os = "linux"
 
     [[CoolProp.download]]
-    sha256 = "06201d6ce3b2710e2c87e76fd7a01cfe9076f4d1c0b029d8d1f3de14c19c714a"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "ef683afeb518de0bc45f4f283edd2ad7a7c44f96bfce6ec49114b71962d4a32f"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[CoolProp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7c49f8608a611ba8fe9812bae6784405792364f9"
+git-tree-sha1 = "eee81ff5fa4fc5a17655bf951fb8968b44268d94"
+libc = "glibc"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "6a82d8d1726d82ddfdc5489518dc64c454cc6e5c5165c38883961e17675a38cc"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b912ae27cdfa929f400a624b048c91af45dbc246"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "c2f5a779e1369f3d129f8617a0467290c9b3a07287e1c30d492506fdb9a47d38"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.x86_64-linux-musl-cxx03.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "377c74e283e64daac4a1cd8174d254fbf1d2a893"
+libc = "musl"
+os = "linux"
+
+    [[CoolProp.download]]
+    sha256 = "7956ed64a497d7bd789c1aecc01ccabf7a558a4d4979cc820d4d9f4bc3815c7b"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.x86_64-linux-musl-cxx11.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+git-tree-sha1 = "319f082ae87cecfc93c756517d51306da7de5124"
+os = "freebsd"
+
+    [[CoolProp.download]]
+    sha256 = "80b100d485fcc68846de2eb2377695362bc5b4ef70436ad910120edc4aee8e57"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.x86_64-unknown-freebsd.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6f04bfa983b77917c714c95e41c77f84b6c6751c"
 os = "windows"
 
     [[CoolProp.download]]
-    sha256 = "eaa851f22423119d49c17937c19ba47211212841e92fffec1d779543b29753ce"
-    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.6.0+0/CoolProp.v6.6.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "3882adf8ad7372a9b658322dee8b3e9896f9d7cd77da3f48bb6ea1c76ce587f5"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[CoolProp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "730f5c73c99a0353d48ef4d220dcfd6b87466789"
+os = "windows"
+
+    [[CoolProp.download]]
+    sha256 = "6988a4c681980d41152664c60fc31022799beb313143d445558142f8be592194"
+    url = "https://github.com/JuliaBinaryWrappers/CoolProp_jll.jl/releases/download/CoolProp-v6.7.0+0/CoolProp.v6.7.0.x86_64-w64-mingw32-cxx11.tar.gz"
