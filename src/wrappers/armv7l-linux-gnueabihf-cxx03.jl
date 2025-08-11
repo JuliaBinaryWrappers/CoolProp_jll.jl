@@ -2,7 +2,7 @@
 export libcoolprop
 
 JLLWrappers.@generate_wrapper_header("CoolProp")
-JLLWrappers.@declare_library_product(libcoolprop, "libCoolProp.so.6")
+JLLWrappers.@declare_library_product(libcoolprop, "libCoolProp.so.7")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
