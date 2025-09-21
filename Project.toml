@@ -1,6 +1,6 @@
 name = "CoolProp_jll"
 uuid = "3351c21f-4feb-5f29-afb9-f4fcb0e27549"
-version = "7.0.0+0"
+version = "7.1.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
